@@ -1,4 +1,4 @@
-# Pragramming-Basics Tasks.
+# Programming-Basics Tasks.
 1.Simple Calculations
 2.Complex Calculations
 3.Simple Conditional Statements
